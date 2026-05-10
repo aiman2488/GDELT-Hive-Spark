@@ -1,7 +1,7 @@
 # GDELT-Hive-Spark
 
 ## Dataset
-Due to the large size of the data (9 million rows spanning over 30 CSV files), the dataset used in this research is hosted on Zenodo.
+Due to the large size of the data (9 million rows spanning over 90 CSV files), the dataset used in this research is hosted on Zenodo.
 
 **Download here:** https://doi.org/10.5281/zenodo.20107567
 
